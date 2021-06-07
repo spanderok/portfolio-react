@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.610290f5.chunk.css",
+    "main.js": "/portfolio-react/static/js/main.97cc623f.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.97cc623f.chunk.js.map",
+    "runtime-main.js": "/portfolio-react/static/js/runtime-main.100a5941.js",
+    "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.100a5941.js.map",
+    "static/js/2.df3201e9.chunk.js": "/portfolio-react/static/js/2.df3201e9.chunk.js",
+    "static/js/2.df3201e9.chunk.js.map": "/portfolio-react/static/js/2.df3201e9.chunk.js.map",
+    "static/js/3.3117eea1.chunk.js": "/portfolio-react/static/js/3.3117eea1.chunk.js",
+    "static/js/3.3117eea1.chunk.js.map": "/portfolio-react/static/js/3.3117eea1.chunk.js.map",
+    "index.html": "/portfolio-react/index.html",
+    "static/css/main.610290f5.chunk.css.map": "/portfolio-react/static/css/main.610290f5.chunk.css.map",
+    "static/js/2.df3201e9.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.df3201e9.chunk.js.LICENSE.txt",
+    "static/media/api.97634ce7.jpg": "/portfolio-react/static/media/api.97634ce7.jpg",
+    "static/media/ava.b10ef5f0.jpg": "/portfolio-react/static/media/ava.b10ef5f0.jpg",
+    "static/media/certifikat.3e140dc2.jpg": "/portfolio-react/static/media/certifikat.3e140dc2.jpg",
+    "static/media/covid-19.ce394944.jpg": "/portfolio-react/static/media/covid-19.ce394944.jpg",
+    "static/media/english_for_kids.20b29071.jpg": "/portfolio-react/static/media/english_for_kids.20b29071.jpg",
+    "static/media/fon-form.056aaff8.jpg": "/portfolio-react/static/media/fon-form.056aaff8.jpg",
+    "static/media/gamePuzzle.25eef205.jpg": "/portfolio-react/static/media/gamePuzzle.25eef205.jpg",
+    "static/media/git-hub.35baedba.svg": "/portfolio-react/static/media/git-hub.35baedba.svg",
+    "static/media/instagram.84ae0328.svg": "/portfolio-react/static/media/instagram.84ae0328.svg",
+    "static/media/link.261df891.svg": "/portfolio-react/static/media/link.261df891.svg",
+    "static/media/mail.3832c658.svg": "/portfolio-react/static/media/mail.3832c658.svg",
+    "static/media/mob.4684ec93.svg": "/portfolio-react/static/media/mob.4684ec93.svg",
+    "static/media/momentum.fc2efa30.jpg": "/portfolio-react/static/media/momentum.fc2efa30.jpg",
+    "static/media/shelter.822f1b4e.jpg": "/portfolio-react/static/media/shelter.822f1b4e.jpg",
+    "static/media/structure.d812a4d9.jpg": "/portfolio-react/static/media/structure.d812a4d9.jpg",
+    "static/media/your life is webdev.1230b121.png": "/portfolio-react/static/media/your life is webdev.1230b121.png",
+    "static/media/телеграмм.cbcc39f4.svg": "/portfolio-react/static/media/телеграмм.cbcc39f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.100a5941.js",
+    "static/js/2.df3201e9.chunk.js",
+    "static/css/main.610290f5.chunk.css",
+    "static/js/main.97cc623f.chunk.js"
+  ]
+}
