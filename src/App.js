@@ -25,6 +25,7 @@ const App = (props) => {
         <Header />
         <MainMenu />
         <div className='app-wrapper-content'>
+          <Route exact path='/' component={AboutMe} />
           <Route path='/about_this_app' component={AboutThisApp} />
           <Route path='/about_me' render={() => <AboutMe aboutMeItems={props.aboutMeItems}/>}/>
           <Route path='/space_station' component={SpaceStation} />
