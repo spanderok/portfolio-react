@@ -1,0 +1,29 @@
+.wrapper {
+    color: rgb(128, 160, 149);
+    display: grid;
+    /* grid-template-columns: 2fr 10fr; */
+    max-width: 1024px;
+    padding: 0 20px;
+    margin: 5% 10%;
+}
+.header {
+    display: flex;
+    color: rgb(230, 102, 70);
+    
+}
+.main{
+    padding: 20px;
+}
+.main .ava img{
+    display: block;
+    width: 200px;
+}
+@media only screen and (max-width : 480px) {
+    .wrapper {
+        margin-left: -20px;
+    }
+    .main{
+        padding-left: 0px;
+        width: 100%;
+    }
+}

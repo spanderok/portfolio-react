@@ -1,0 +1,38 @@
+.wrapper {
+    color: rgb(40, 51, 47);
+    font-weight: 500;
+    font-size: 19px;
+    display: grid;
+    /* grid-template-columns: 2fr 10fr; */
+    max-width: 1024px;
+    padding: 0 20px;
+    margin: 4% 10%;
+}
+.header {
+    display: flex;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-style: italic;
+    font-size: 20px;
+}
+button {
+    margin-left: 15px;
+    border-radius: 30%;
+}
+button:hover{
+    background-color: rgb(212, 176, 129);
+}
+
+@media only screen and (max-width : 480px) {
+    .wrapper{
+        padding-left: 0px;
+        margin-left: 10px;
+    }
+
+}
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+.footer{
+  grid-area: f;
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(250, 250, 250);
+  height: 70px;
+}
+.footer img{
+  height: 40px;
+
+}
+@media only screen and (max-width : 480px) {
+  .footer {
+    width: 1024px;
+  };
+}

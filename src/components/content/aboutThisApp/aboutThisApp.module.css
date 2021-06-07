@@ -1,0 +1,27 @@
+.wrapper{
+    height: 100%;
+    padding: 20px;
+    padding-top: 0px;
+    display: flex;
+    flex-direction: column;
+    color: rgb(0, 0, 0);
+    margin: 5% 10%;
+
+}
+.wrapper img{
+    width: 500px;
+}
+.wrapper a{
+    color: rgb(10, 10, 10);
+    text-decoration: none;
+}
+.wrapper a:hover{
+    text-decoration: underline;
+    color:rgb(201, 87, 87);
+ 
+}
+@media only screen and (max-width : 480px) {
+    .wrapper img{
+        width: 100%;
+    }
+  }

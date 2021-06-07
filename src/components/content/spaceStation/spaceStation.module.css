@@ -1,0 +1,21 @@
+.wrapper{
+    height: 100%;
+    padding: 20px;
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    margin: 5% 10%;
+
+}
+.wrapper li{
+    color: rgb(10, 10, 10);
+}
+.wrapper a{
+    color: rgb(5, 5, 5);
+    text-decoration: none;
+}
+.wrapper a:hover{
+    text-decoration: underline;
+    color:rgb(201, 87, 87);
+ 
+}

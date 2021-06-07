@@ -1,0 +1,13 @@
+.wrapper {
+    color: rgb(128, 160, 149);
+    display: grid;
+    /* grid-template-columns: 2fr 10fr; */
+    max-width: 1024px;
+    padding: 0 20px;
+    margin: 5% 10%;
+}
+.wrapper .header {
+    display: flex;
+    color: rgb(230, 102, 70);
+    
+}
