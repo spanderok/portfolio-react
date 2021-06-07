@@ -7,37 +7,37 @@ const MainMenu = () => {
     return (
         <div className={Class.mainMenu}>
             <div className={Class.item}>
-                <NavLink to='/about_this_app' activeClassName={Class.active}>About this app</NavLink>
+                <NavLink to='/portfolio-react/about_this_app' activeClassName={Class.active}>About this app</NavLink>
             </div >
             <div className={Class.item}>
-                <NavLink to='/about_me' activeClassName={Class.active}>About me</NavLink>
+                <NavLink to='/portfolio-react/about_me' activeClassName={Class.active}>About me</NavLink>
             </div >
             <div className={Class.item}>
-                <NavLink to='/space_station' activeClassName={Class.active}>Space station</NavLink>
+                <NavLink to='/portfolio-react/space_station' activeClassName={Class.active}>Space station</NavLink>
             </div >
             <div className={Class.item}>
-                <NavLink to='/covid' activeClassName={Class.active}>Covid app</NavLink>
+                <NavLink to='/portfolio-react/covid' activeClassName={Class.active}>Covid app</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/form' activeClassName={Class.active}>Form</NavLink>
+                <NavLink to='/portfolio-react/form' activeClassName={Class.active}>Form</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/game_puzzle' activeClassName={Class.active}>Game puzzle</NavLink>
+                <NavLink to='/portfolio-react/game_puzzle' activeClassName={Class.active}>Game puzzle</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/shelter' activeClassName={Class.active}>Shelter</NavLink>
+                <NavLink to='/portfolio-react/shelter' activeClassName={Class.active}>Shelter</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/momentum' activeClassName={Class.active}>Momentum</NavLink>
+                <NavLink to='/portfolio-react/momentum' activeClassName={Class.active}>Momentum</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/webdev' activeClassName={Class.active}>Your life is webdev</NavLink>
+                <NavLink to='/portfolio-react/webdev' activeClassName={Class.active}>Your life is webdev</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/english_for_kids' activeClassName={Class.active}>English for kids</NavLink>
+                <NavLink to='/portfolio-react/english_for_kids' activeClassName={Class.active}>English for kids</NavLink>
             </div>
             <div className={Class.item}>
-                <NavLink to='/presentation' activeClassName={Class.active}>Presentation API</NavLink>
+                <NavLink to='/portfolio-react/presentation' activeClassName={Class.active}>Presentation API</NavLink>
             </div>
 
         </div>
