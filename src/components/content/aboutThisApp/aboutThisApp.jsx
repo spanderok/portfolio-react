@@ -9,10 +9,10 @@ const AboutThisApp = (props) => {
             <img src={structPicture} alt="struct" />
             <ul>
                 <li>
-                    <a href="https://github.com/spanderok/portfolio/tree/develop" rel="noreferrer" target="_blank">Source</a>
+                    <a href="https://github.com/spanderok/portfolio-react/tree/master" rel="noreferrer" target="_blank">Source</a>
                 </li>
                 <li>
-                    <a href="https://portfolio-palyka-dmitry.herokuapp.com/about_me" rel="noreferrer" target="_blank">Deploy</a>
+                    <a href="https://spanderok.github.io/portfolio-react/" rel="noreferrer" target="_blank">Deploy</a>
                 </li>
             </ul>
 
