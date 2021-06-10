@@ -48,7 +48,7 @@ const App = (props) => {
           <Route path={process.env.PUBLIC_URL + '/game_puzzle'} render={() => <ComponentForItems itemContent='The tag game was written during the course. 
                 Simple layout, a lot of logic, the use of local storage, Data, a solvability check algorithm after random distribution of tags.
                 Of course, the quality of the code requires a huge refactoring)'
-            itemSource="https://github.com/rolling-scopes-school/spanderok-JS2020Q3/tree/gem-puzzle/gem-puzzle"
+            itemSource="https://github.com/spanderok/portfolio-source/tree/gem-puzzle/gem-puzzle"
             itemDeploy="https://rolling-scopes-school.github.io/spanderok-JS2020Q3/gem-puzzle/"/>}/>
           <Route path={process.env.PUBLIC_URL + '/shelter'} render={() => <ComponentForItems itemContent='The Shelter is the first serious project during training on layout using Pixel Perfect,
                  slider, pagination, pop-up, random generation of sequences without repetitions, adaptability, 
@@ -56,23 +56,23 @@ const App = (props) => {
                  On assignment, there were only two pages “about the shelter” and “our pets”.
                  Of course there are some peculiarities, yet it was a tutorial project, started with CSS,
                  continued with Sass, etc.'
-            itemSource="https://github.com/rolling-scopes-school/spanderok-JS2020Q3/tree/shelter"
+            itemSource="https://github.com/spanderok/portfolio-source/tree/shelter/shelter"
             itemDeploy="https://rolling-scopes-school.github.io/spanderok-JS2020Q3/shelter/pages/main/main.html"/>}/>
           <Route path={process.env.PUBLIC_URL + '/momentum'} render={() => <ComponentForItems itemContent='The momentum application is a copy of the “focus for today” application, which was also made during the course.
                  You can enter a task for the day - focus, name.
                  In the upper right corner, the weather for the selected city is displayed,
                  in the upper left you can switch backgrounds, or they themselves will change every hour.
                  At the bottom there are quotes loaded via the API.'
-            itemSource="https://github.com/rolling-scopes-school/spanderok-JS2020Q3/tree/momentum"
+            itemSource="https://github.com/spanderok/portfolio-source/tree/momentum/momentum"
             itemDeploy="https://rolling-scopes-school.github.io/spanderok-JS2020Q3/momentum/"/>}/>
           <Route path={process.env.PUBLIC_URL + '/webdev'} render={() => <ComponentForItems itemContent='Another tutorial project on layout.'
-            itemSource="https://github.com/rolling-scopes-school/spanderok-JS2020Q3/tree/webdev"
+            itemSource="https://github.com/spanderok/portfolio-source/tree/webdev/webdev"
             itemDeploy="https://rolling-scopes-school.github.io/spanderok-JS2020Q3/webdev/"/>}/>
           <Route path={process.env.PUBLIC_URL + '/english_for_kids'} render={() => <ComponentForItems itemContent='Training project "english for kids" from the course.'
-            itemSource="https://github.com/rolling-scopes-school/spanderok-JS2020Q3/tree/english-for-kids"
+            itemSource="https://github.com/spanderok/portfolio-source/tree/english-for-kids/english-for-kids"
             itemDeploy="https://rolling-scopes-school.github.io/spanderok-JS2020Q3/english-for-kids/"/>}/>
           <Route path={process.env.PUBLIC_URL + '/presentation'} render={() => <ComponentForItems itemContent='This is my video presentation from courses on the topic file system API.'
-            itemSource="https://github.com/rolling-scopes-school/spanderok-JS2020Q3/tree/presentation/presentation"
+            itemSource="https://github.com/spanderok/portfolio-source/tree/presentation/presentation"
             itemDeploy="https://youtu.be/IbqmL-qSKX4"/>}/>
             {console.log(process.env.PUBLIC_URL)}
         </div>
