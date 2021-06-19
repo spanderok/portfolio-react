@@ -49,7 +49,7 @@ const Skills = (props) => {
                             </ul>
                             <div>English Proficiency:</div>
                             <ul>
-                                <li>A2 (Pre-intermediate) + </li>
+                                <li>B1 (intermediate) </li>
                             </ul>
                         </div>
                     </div>
